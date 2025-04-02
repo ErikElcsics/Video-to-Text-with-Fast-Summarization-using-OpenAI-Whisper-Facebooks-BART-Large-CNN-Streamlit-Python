@@ -6,6 +6,7 @@ This app allows you to upload a video file, extract its audio, transcribe the sp
 - Upload video files (MP4, MOV, AVI).
 - Extracts audio from the uploaded video.
 - Transcribe Speech: The app uses OpenAI's Whisper model to transcribe speech from the uploaded video.
+- Download Transcript.
 - Summarize Text: The app uses Facebook's BART-Large-CNN model to generate concise summaries from the transcribed text.
 - The app will automatically download the required models if they are not found locally, saving you the hassle of manually downloading them.
 
