@@ -78,4 +78,9 @@ Re-process or Upload New Video:
 4. It then shortens the transcript into a concise summary that captures the main messages while leaving out unnecessary details.
 5. The result is a brief, easy-to-read summary of the video's content, making it quick to understand the core information.
 
+![image](https://github.com/user-attachments/assets/0ffd3145-2861-4064-8bfb-7aaa3f8ec026)
+
+![image](https://github.com/user-attachments/assets/89d92369-4560-4fbf-88a6-352e2933bfb5)
+
+
 
