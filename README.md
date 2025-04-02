@@ -26,7 +26,7 @@ Here are the main libraries used in this project:
 
 # Installation
 Clone the Repository
-git clone https://github.com/yourusername/video-to-text-summarizer.git  
+git clone https://github.com/ErikElcsics/Video-to-Text-with-Fast-Summarization-using-OpenAI-Whisper-Facebooks-BART-Large-CNN-Streamlit-Python.git  
 cd video-to-text-summarizer 
  
 # Install Dependencies
