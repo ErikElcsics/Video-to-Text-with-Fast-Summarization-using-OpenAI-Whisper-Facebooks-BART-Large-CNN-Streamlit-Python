@@ -1,0 +1,2 @@
+# Video-to-Text-with-Fast-Summarization-using-OpenAI-Whisper-Facebooks-BART-Large-CNN-Streamlit-Python
+This app allows you to upload a video file, extract its audio, transcribe the speech into text using OpenAI Whisper, and summarize the transcription using Facebook's BART-Large-CNN model. It uses Streamlit for the user interface and Python code to handle the video processing and model operations.
